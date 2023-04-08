@@ -1,0 +1,4 @@
+packages
+cvzone: pip install cvzone
+mediapipe: pip isntall mediapipe
+tensorflow: pip install tensorflow
