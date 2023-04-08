@@ -15,7 +15,7 @@ imgSize = 300
 folder = 'data/C'
 counter = 0
 
-labels = ["A", "B", "C"]
+labels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
 
 try:
     while True:
